@@ -1,2 +1,2 @@
-# Proposed-SR-dataset
-In this repository, a dataset of persian license-plates is proposed and provided for Super Resolution (SR) systems.
+# Super-Resolution(SR) dataset
+In this repository, we propose and provide a dataset of persian License-Plates(LP) which can be employed to train the SR systems.
