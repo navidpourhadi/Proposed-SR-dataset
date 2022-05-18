@@ -22,10 +22,7 @@ Validation  | 8.3%  | 500
 Test  | 8.3%  | 500
 
 ## Samples of Dataset
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001HR.jpg)  |   ![](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001X2.jpg) 
+ ![0001X2](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001X2.jpg) 
 
    HR image   |   2X LR image  |  4X LR image
 ------------- |  ------------- | -------------
