@@ -22,10 +22,23 @@ Validation  | 8.3%  | 500
 Test  | 8.3%  | 500
 
 ## Samples of Dataset
- ![0001X2](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001X2.jpg) 
 
    HR image   |   2X LR image  |  4X LR image
 ------------- |  ------------- | -------------
-![](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001HR.jpg)  | ![](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001X2.jpg)  | ![](https://github.com/navidpourhadi/Proposed-SR-dataset/tree/main/samples/0001X4.jpg)
-Validation  | 8.3%  | 500
-Test  | 8.3%  | 500
+<img src="/samples/0001HR.jpg"  width="192" height="68">  | <img src="/samples/0001X2.jpg"  width="192" height="68">  | <img src="/samples/0001X4.jpg"  width="192" height="68">
+<img src="/samples/0002HR.jpg"  width="192" height="68">  | <img src="/samples/0002X2.jpg"  width="192" height="68">  | <img src="/samples/0002X4.jpg"  width="192" height="68">
+<img src="/samples/0004HR.jpg"  width="192" height="68">  | <img src="/samples/0004X2.jpg"  width="192" height="68">  | <img src="/samples/0004X4.jpg"  width="192" height="68">
+
+
+## Accessing the dataset
+For accessing the full version of dataset, please contact us:
+emails:
+  - npourhadi1998@gmail.com
+  - behnoud.shafizadeh@gmail.com
+
+
+
+## Authors
+
+- [Navid Pourhadi](https://www.github.com/navidpourhadi)
+- [Behnoud Shafizadeh](https://github.com/behnoudshafizadeh)
